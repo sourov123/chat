@@ -35,7 +35,7 @@
 .flaticon-microphone:before { content: "\f100"; }
 
 *{margin: 0;padding: 0;box-sizing: border-box;}
-body{font-family: 'Roboto-Regular'; background-image: url('../images/bg.GIF'); background-size: cover; }
+body{font-family: 'Roboto-Regular'; background-image: url('../images/bg.gif'); background-size: cover; }
 header {
    height: 60px;
     background: #0b214863;
